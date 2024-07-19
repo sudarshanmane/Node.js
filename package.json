@@ -18,6 +18,8 @@
   "description": "",
   "dependencies": {
     "colors": "^1.4.0",
+    "expres": "^0.0.5",
+    "express": "^4.19.2",
     "nodemon": "^3.1.4",
     "simple-node-logger": "^21.8.12"
   }
