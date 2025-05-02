@@ -10,6 +10,7 @@
   "description": "",
   "dependencies": {
     "express": "^4.19.2",
+    "expressjs": "file:",
     "nodemon": "^3.1.4",
     "simple-node-logger": "^21.8.12"
   }
